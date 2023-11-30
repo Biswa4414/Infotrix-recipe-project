@@ -1,4 +1,4 @@
-* {
+ * {
   margin: 0px;
   padding: 0px;
 }
@@ -477,6 +477,7 @@ div.footer {
   justify-content: space-between;
   align-items: center;
   background: linear-gradient(to right, #050326, #5210cd);
+height :42%
 }
 div.footer .navbar {
   width: 100%;
@@ -492,6 +493,7 @@ div.Fi {
   justify-content: space-between;
   align-items: center;
   height: 100px;
+  margin-top:-70px
 }
 
 div.Fi img {
@@ -568,15 +570,15 @@ div.box {
   flex-direction: column;
   align-items: center;
   border: 2px solid white;
-  height: 80px;
   color: white;
   border-radius: 20px;
   width: 300px;
-  height: 150px;
+  height: 200px;
   font-size: 15px;
 }
 div.box p {
   font-size: 15px;
+  margin-top:-1px
 }
 
 div.Six {
